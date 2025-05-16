@@ -1,0 +1,4 @@
+D 'scls': Symmetrically censored least squares estimator Use scls With STATA 19
+D
+F scls.ado
+F scls.sthlp
